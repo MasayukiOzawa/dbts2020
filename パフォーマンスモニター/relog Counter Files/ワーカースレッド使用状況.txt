@@ -1,0 +1,2 @@
+\Process(sqlservr)\Thread Count
+\SQLServer:Wait Statistics(Waits started per second)\Wait for the worker

@@ -12,7 +12,7 @@ SELECT
         WHEN wait_type LIKE 'PAGELATCH_%' 
             THEN 'Buffer Latch'
         WHEN wait_type LIKE 'PAGEIOLATCH_%' 
-            THEN '	Buffer IO'
+            THEN 'Buffer IO'
         WHEN wait_type ='RESOURCE_SEMAPHORE_QUERY_COMPILE' 
             THEN 'Compilation'
         WHEN wait_type LIKE 'CLR%' or wait_type LIKE 'SQLCLR%' 

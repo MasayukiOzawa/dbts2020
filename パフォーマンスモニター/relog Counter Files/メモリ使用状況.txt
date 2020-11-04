@@ -1,0 +1,10 @@
+\SQLServer:Memory Manager\Connection Memory (KB)
+\SQLServer:Memory Manager\Database Cache Memory (KB)
+\SQLServer:Memory Manager\Free Memory (KB)
+\SQLServer:Memory Manager\Lock Memory (KB)
+\SQLServer:Memory Manager\Log Pool Memory (KB)
+\SQLServer:Memory Manager\Optimizer Memory (KB)
+\SQLServer:Memory Manager\Reserved Server Memory (KB)
+\SQLServer:Memory Manager\Stolen Server Memory (KB)
+\SQLServer:Memory Manager\Total Server Memory (KB)
+\SQLServer:Plan Cache(_Total)\Cache Pages

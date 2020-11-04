@@ -1,0 +1,2 @@
+\SQLServer:SQL Statistics\SQL Compilations/sec
+\SQLServer:SQL Statistics\SQL Re-Compilations/sec

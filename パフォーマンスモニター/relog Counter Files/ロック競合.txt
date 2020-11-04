@@ -1,0 +1,6 @@
+\SQLServer:Locks(*)\Number of Deadlocks/sec
+\SQLServer:Access Methods\Table Lock Escalations/sec
+\SQLServer:General Statistics\Processes blocked
+\SQLServer:Locks(*)\Lock Waits/sec
+\SQLServer:Locks(*)\Lock Wait Time (ms)
+\SQLServer:Locks(*)\Average Wait Time (ms)

@@ -1,0 +1,4 @@
+\SQLServer:Batch Resp Statistics(CPU Time:Requests)\*
+\SQLServer:Batch Resp Statistics(CPU Time:Total(ms) )\*
+\SQLServer:Batch Resp Statistics(Elapsed Time:Requests)\*
+\SQLServer:Batch Resp Statistics(Elapsed Time:Total(ms))\*

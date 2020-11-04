@@ -1,0 +1,3 @@
+\SQLServer:Buffer Manager\Buffer cache hit ratio
+\SQLServer:Buffer Manager\Page life expectancy
+\SQLServer:Plan Cache(_Total)\Cache Object Counts

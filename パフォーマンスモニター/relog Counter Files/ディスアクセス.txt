@@ -1,0 +1,5 @@
+\LogicalDisk(*)\Disk Write Bytes/sec
+\LogicalDisk(*)\Disk Writes/sec
+\LogicalDisk(*)\Disk Read Bytes/sec
+\LogicalDisk(*)\Disk Read Bytes/sec
+\LogicalDisk(*)\Current Disk Queue Length

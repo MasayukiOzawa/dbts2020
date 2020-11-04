@@ -1,0 +1,2 @@
+\SQLServer:SQL Statistics\SQL Attention rate
+\SQLServer:SQL Errors(User Errors)\*

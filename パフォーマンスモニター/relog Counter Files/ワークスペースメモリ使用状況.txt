@@ -1,0 +1,4 @@
+\SQLServer:Memory Manager\Granted Workspace Memory (KB)
+\SQLServer:Memory Manager\Maximum Workspace Memory (KB)
+\SQLServer:Memory Manager\Memory Grants Outstanding
+\SQLServer:Memory Manager\Memory Grants Pending

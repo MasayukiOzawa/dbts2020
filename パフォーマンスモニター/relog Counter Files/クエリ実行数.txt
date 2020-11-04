@@ -1,0 +1,2 @@
+\SQLServer:SQL Statistics\Batch Requests/sec
+\SQLServer:General Statistics\User Connections

@@ -1,0 +1,3 @@
+\SQLServer:Buffer Manager\Checkpoint pages/sec
+\SQLServer:Buffer Manager\Background writer pages/sec
+\SQLServer:Buffer Manager\Lazy writes/sec

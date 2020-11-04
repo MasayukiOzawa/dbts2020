@@ -1,0 +1,4 @@
+\SQLServer:Wait Statistics(Average wait time (ms))\*
+\SQLServer:Wait Statistics(Cumulative wait time (ms) per second)\*
+\SQLServer:Wait Statistics(Waits in progress)\*
+\SQLServer:Wait Statistics(Waits started per second)\*

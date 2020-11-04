@@ -1,7 +1,7 @@
 CREATE EVENT SESSION [EventTrace] ON SERVER 
 ADD EVENT sqlserver.attention(
     ACTION(sqlserver.client_app_name,sqlserver.client_hostname,sqlserver.database_id,sqlserver.database_name,sqlserver.nt_username,sqlserver.query_hash,sqlserver.query_plan_hash,sqlserver.session_id,sqlserver.sql_text,sqlserver.username)
-    WHERE (NOT [sqlserver].[like_i_sql_unicode_string]([sqlserver].[client_app_name],N'''''Microsoft SQL Server Management Studio%'''''))),
+    WHERE (NOT [sqlserver].[like_i_sql_unicode_string]([sqlserver].[client_app_name],N'Microsoft SQL Server Management Studio%'))),
 ADD EVENT sqlserver.blocked_process_report(
     ACTION(sqlserver.client_app_name,sqlserver.client_hostname,sqlserver.database_id,sqlserver.database_name,sqlserver.nt_username,sqlserver.query_hash,sqlserver.query_plan_hash,sqlserver.session_id,sqlserver.sql_text,sqlserver.username)),
 ADD EVENT sqlserver.lock_escalation(

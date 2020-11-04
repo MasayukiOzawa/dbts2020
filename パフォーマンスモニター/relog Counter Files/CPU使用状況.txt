@@ -1,0 +1,3 @@
+\Processor(_Total)\% Processor Time
+\Process(sqlservr)\% Processor Time
+\System\Processor Queue Length

@@ -1,0 +1,4 @@
+\SQLServer:Access Methods\Full Scans/sec
+\SQLServer:Access Methods\Index Searches/sec
+\SQLServer:Access Methods\Probe Scans/sec
+\SQLServer:Access Methods\Range Scans/sec
